@@ -1,2 +1,21 @@
-// ignore .vscode folder
+# VS Code folder
 .vscode/
+
+# Python / Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Dataset archives
+*.zip
+
+# Extracted dataset directories
+rps/
+rps-test-set/
+lab_alexnet/rps/
+lab_alexnet/rps-test-set/
+
+# Model checkpoints
+*.pth
+*.pt
