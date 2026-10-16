@@ -9,12 +9,30 @@ __pycache__/
 
 # Dataset archives
 *.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.7z
+
+# Dataset tables and binary arrays
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.h5
+*.hdf5
+*-idx*-ubyte
+*.idx*-ubyte
 
 # Extracted dataset directories
 rps/
 rps-test-set/
 lab_alexnet/rps/
 lab_alexnet/rps-test-set/
+Fashion-MNIST/
+datasets/
 
 # Model checkpoints
 *.pth
