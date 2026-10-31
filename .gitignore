@@ -17,6 +17,7 @@ __pycache__/
 
 # Dataset tables and binary arrays
 *.csv
+*.jpg
 *.tsv
 *.parquet
 *.npy
