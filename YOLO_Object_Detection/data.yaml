@@ -1,8 +1,9 @@
-names:
-- WBC
-- RBC
-- Platelets
+path: C:/Users/Pc/Documents/GitHub/AI_class/YOLO_Object_Detection/dataset/blood_cell_dataset
+train: train/images
+val: valid/images
+test: test/images
 nc: 3
-test: /Users/pinkuntha/Documents/Uni_Documents/6. AUPP-Fall-Semester-2026/AI-ITM-360/slides/week12/day1_Object_Detection/YOLO_Object_Detection/dataset/blood_cell_dataset/test/images
-train: /Users/pinkuntha/Documents/Uni_Documents/6. AUPP-Fall-Semester-2026/AI-ITM-360/slides/week12/day1_Object_Detection/YOLO_Object_Detection/dataset/blood_cell_dataset/train/images
-val: /Users/pinkuntha/Documents/Uni_Documents/6. AUPP-Fall-Semester-2026/AI-ITM-360/slides/week12/day1_Object_Detection/YOLO_Object_Detection/dataset/blood_cell_dataset/valid/images
+names:
+- Platelets
+- RBC
+- WBC

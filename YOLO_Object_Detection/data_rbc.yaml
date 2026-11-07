@@ -1,0 +1,7 @@
+path: C:/Users/Pc/Documents/GitHub/AI_class/YOLO_Object_Detection/dataset/rbc_only
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names:
+- RBC

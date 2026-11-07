@@ -10,6 +10,7 @@ Coursework notebooks exploring linear regression, optimization, softmax regressi
 | `lab_practices_Softmax_Regression_Implementation/` | Softmax regression |
 | `lab_alexnet/` | AlexNet classification and feature-visualization lab template |
 | `lab_vgg/` | Pet-expression preprocessing and VGG19/EfficientNet-B0 experiments |
+| `YOLO_Object_Detection/` | YOLOv8 blood cell detection lab adapted to RBC-only detection, with NVIDIA GPU training and evaluation in the notebook |
 | `pytorch_core_modules.ipynb` | PyTorch module exercises |
 
 ## Open a lab
